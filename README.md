@@ -1,7 +1,4 @@
 # rick-and-Morty-epg
-epg for rick and Morty for Marathons 
-
-
 Hi 
 
 i build a epg for rick and morty Marathons 
